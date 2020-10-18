@@ -1,0 +1,11 @@
+abcdeio123
+a is vowel
+b is consonant
+c is consonant
+d is consonant
+e is vowel
+i is vowel
+o is vowel
+1 is invalid lexeme
+2 is invalid lexeme
+3 is invalid lexeme

@@ -1,0 +1,5 @@
+10100
+string accepted
+
+34560
+string rejected

@@ -1,0 +1,5 @@
+348000
+string accepted
+
+36705
+string rejected
